@@ -15,15 +15,15 @@ To create a 3D model from given orthographic projection.
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198823371-bacc7928-28aa-45dd-a652-8833f95e3ea9.png)
+<img height=20% width=20% src="https://user-images.githubusercontent.com/113594316/198823371-bacc7928-28aa-45dd-a652-8833f95e3ea9.png">
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198823384-c72c4c0f-9650-48db-b7da-697a0f22886b.png)
+<img height=20% width=20% src="https://user-images.githubusercontent.com/113594316/198823384-c72c4c0f-9650-48db-b7da-697a0f22886b.png">
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198823390-0832a221-257e-439f-99b4-1a8beca74b56.png)
+<img height=25% width=25% src="https://user-images.githubusercontent.com/113594316/198823390-0832a221-257e-439f-99b4-1a8beca74b56.png">
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
@@ -31,7 +31,7 @@ To create a 3D model from given orthographic projection.
 
 7.	Use extrude option to convert 3D model from sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198823408-d3d678f1-2247-41a2-abdd-b9a8918daef8.png)
+<img height=25% width=25% src="https://user-images.githubusercontent.com/113594316/198823408-d3d678f1-2247-41a2-abdd-b9a8918daef8.png">
 
 
 8.	After finishing the model convert to drawing sheet per  ISO standard.
@@ -42,6 +42,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+
+![Screenshot 2023-04-05 192436](https://user-images.githubusercontent.com/118707073/230102621-1cce77d8-5462-4234-a3db-fe0895143497.png)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
